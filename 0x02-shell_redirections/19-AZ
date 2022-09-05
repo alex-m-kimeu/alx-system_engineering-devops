@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'linuxize' | tr 'Ac' 'Ze'
+echo 'Ac' | tr 'Ac' 'Ze'
